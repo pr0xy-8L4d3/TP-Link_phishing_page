@@ -4,33 +4,4 @@ pass=I_own_you
 
 
 
-user=admin
-pass=fuckyou
-
-
-
-
-user=admn
-pass=helloworld
-
-
-
-
-user=admin
-pass=test1
-
-
-
-
-user=jusk
-pass=helloworld
-
-
-
-
-user=Hogo
-pass=rogo
-
-
-
 
